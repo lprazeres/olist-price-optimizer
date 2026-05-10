@@ -89,7 +89,7 @@ These are the highest-priority repricing targets — demand drops more than prop
 
 ## 🚀 Live Demo
 
-🔗 *[Open in Streamlit]()* — coming soon
+🔗 *[Open in Streamlit](https://sales-price-optimizer.streamlit.app)*
 
 The app features 4 tabs:
 - **About** — project overview and key findings
