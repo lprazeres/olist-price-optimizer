@@ -1,0 +1,33 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw data file (109K rows — run 01_aggregation.ipynb to regenerate)
+data/pricing_analysis_cleaned.parquet
+
+# Credentials / secrets
+*.env
+secrets.toml
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+streamlit_log.txt
